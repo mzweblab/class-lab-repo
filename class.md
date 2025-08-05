@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Mary Ann
+- Certification: Meta Version Control
 
 ## Instructions
 Please replace the placeholders with your details:
